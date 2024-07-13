@@ -20,3 +20,4 @@
 Clone the repository
 
 ```bash
+https://github.com/Dharssini/chicken-disease-classification
